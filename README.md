@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!+
+
+* 
 
 ## Video Walkthrough
 
@@ -34,7 +36,7 @@ Ezgif - https://ezgif.com/video-to-gif
 ## Notes
 
 Describe any challenges encountered while building the app.
-There were no specific challenges except for getting the secret Key for challenge 4 in part 3, I did not notice " and ` for the longest time.
+There were no specific challenges except for getting the secret Key for challenge 4 in part 3, I did not notice " and thought it was ` for the longest time.
 
 ## License
 
